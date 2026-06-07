@@ -73,7 +73,7 @@ const funnelStatusTool = tool({
         "🪄 Funnel Architect plugin is alive and building!",
         "",
         "Tools ready: `funnel-status`",
-        "Skills ready: 29 skills for building high-converting sales funnels",
+        "Skills ready: 30 skills for building high-converting sales funnels",
         "",
         "Supported funnel types: Opt-In, Webinar, SaaS, VSL, Product Launch, Tripwire, Challenge, Application, Evergreen Webinar, High-Ticket, Membership, E-Commerce, Group",
         "",
